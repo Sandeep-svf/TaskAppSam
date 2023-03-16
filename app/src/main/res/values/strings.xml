@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TaskAppSam</string>
+    <string name="product_list">Product List</string>
+    <string name="product_details">Product Details</string>
+    <string name="service_name">Service Name</string>
+    <string name="product_price">Product Price :</string>
+    <string name="quantity">Quantity : </string>
+    <string name="remaning_quantity">Remaining Quantity :</string>
+    <string name="description">Description : </string>
+    <string name="these_permissions_are_mandatory_for_this_application_please_allow_access">These Permissions are Mandatory for this Application. Please Allow Access.</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="update_details">Update Detail</string>
+    <string name="edit_details">Edit Detail</string>
+    <string name="title">product title</string>
+    <string name="price">product price</string>
+    <string name="prod_des">product description</string>
+    <string name="prod_cat">product category</string>
+    <string name="update_detail">Update</string>
+    <string name="add_product">add product</string>
+    <string name="product_category">Product Category:</string>
+</resources>
